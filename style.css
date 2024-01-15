@@ -1,0 +1,44 @@
+#nb {
+    background-color: black;
+    height: 50px;
+    bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    display: flex;
+}
+
+#bar li {
+    display: inline;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#bar a{
+    text-decoration: none;
+    color:white;
+}
+
+#bar a:hover{
+    color:red
+}
+
+#r {
+    display: inline;
+    margin-left: auto;
+    margin-top: 10px;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+#r:hover{
+    color:red;
+}
